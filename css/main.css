@@ -134,7 +134,7 @@
 }
 
 h3.ce_title span {
-    color: #fec20b;
+    color: #332483;
 }
 
 .cws_portfolio_items .item .title_part,
@@ -420,11 +420,11 @@ a:hover>.cws_fa_wrapper .cws_fa:not(.alt),
 body.wave-style hr,
 .item .date.def_style .month:before,
 .scroll_top:hover {
-    background-color: #fec20b;
+    background-color: #332483;
 }
 
 .cws-widget .search-form {
-    background-color: #fec20b !important;
+    background-color: #332483 !important;
 }
 
 .bees:after,
@@ -442,7 +442,7 @@ body.wave-style hr,
 .tp-rightarrow.round,
 .site_top_panel form.search-form .search-field,
 .testimonial .author img {
-    border-color: #fec20b;
+    border-color: #332483;
 }
 
 .post_info a,
@@ -477,7 +477,7 @@ blockquote:after,
 .footer_container ul.product_list_widget li a,
 .footer_container ul.product_list_widget ins,
 .footer_container ul.product_list_widget span.amount {
-    color: #fec20b;
+    color: #332483;
 }
 
 
@@ -492,14 +492,14 @@ blockquote:after,
 .main-nav-container .sub-menu .menu-item.current-menu-ancestor>a,
 .main-nav-container .sub-menu .menu-item.current-menu-item>a,
 .cws_callout .button_section>a:hover {
-    background-color: #fd8e00;
+    background-color: #0f0838;
 }
 
 .main-nav-container .menu-item:hover>a>.bees:after,
 .main-nav-container .menu-item.current-menu-item>a>.bees:after,
 .main-nav-container .menu-item.current-menu-ancestor>a>.bees:after,
 .header_logo_part.with_border .logo {
-    border-color: #fd8e00;
+    border-color: #0f0838;
 }
 
 
@@ -597,7 +597,7 @@ div.woocommerce .shop_table .amount,
 .mini-cart .product_list_widget>li ins>.amount,
 .mini-cart .product_list_widget>li>.amount,
 .mini-cart .total>.amount {
-    color: #fec20b;
+    color: #332483;
 }
 
 .added_to_cart.wc-forward:hover,
@@ -609,11 +609,11 @@ div.woocommerce .shop_table .amount,
 .woocommerce span.onsale,
 .woocommerce-page span.onsale,
 .woo_panel {
-    background-color: #fec20b;
+    background-color: #332483;
 }
 
 .woocommerce-tabs .comment_container img {
-    border-color: #fec20b;
+    border-color: #332483;
 }
 
 .woocommerce-pagination ul.page-numbers li a,
@@ -4533,7 +4533,7 @@ img.image-type.noborder {
 }
 
 .testimonial.style-2 {
-    background-color: #fec20b;
+    background-color: #332483;
 }
 
 .testimonial:before,
@@ -6902,7 +6902,7 @@ a:hover>.cws_fa_wrapper> .cws_fa:after {
     width: 22px;
     height: 5px;
     border-radius: 5px;
-    background-color: #fec20b;
+    background-color: #332483;
 }
 
 .cws_callout .callout_text {
@@ -9664,7 +9664,7 @@ img.emoji {
     height: 6px;
     border-radius: 3px;
     margin-top: 8px;
-    background-color: #fec20b;
+    background-color: #332483;
 }
 
 .widget.timetable_sidebar_box .textwidget,
@@ -9723,7 +9723,7 @@ table.tt_timetable thead th {
 }
 
 .tt_timetable .event {
-    background-color: #fec20b;
+    background-color: #332483;
 }
 
 .tt_timetable .event:hover,
@@ -9733,7 +9733,7 @@ table.tt_timetable thead th {
 .sf-timetable-menu li.selected a,
 .sf-timetable-menu li.current-menu-item a,
 .sf-timetable-menu li.current-menu-ancestor a {
-    background-color: #fd8e00;
+    background-color: #0f0838;
 }
 
 .tabs_box_navigation.sf-timetable-menu .tabs_box_navigation_selected {
@@ -9753,19 +9753,19 @@ table.tt_timetable thead th {
 }
 
 .tabs_box_navigation.sf-timetable-menu .tabs_box_navigation_selected {
-    border: 1px solid #fec20b;
+    border: 1px solid #332483;
 }
 
 .tabs_box_navigation.sf-timetable-menu .tabs_box_navigation_selected,
 .sf-timetable-menu li ul li a:hover,
 .sf-timetable-menu li ul li.selected a:hover {
-    background-color: #fec20b;
+    background-color: #332483;
 }
 
 .tt_tabs_navigation li a:hover,
 .tt_tabs_navigation li a.selected,
 .tt_tabs_navigation li.ui-tabs-active a {
-    border-color: #fec20b !important;
+    border-color: #332483 !important;
 }
 
 .tabs_box_navigation label {
